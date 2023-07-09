@@ -8,10 +8,10 @@
 
 .icon-container img {
   position: absolute;
-  width: 80px; /* Adjust the width value to reduce the size */
-  height: 80px; /* Adjust the height value to reduce the size */
+  width: 120px; /* Adjust the width value to reduce the size */
+  height: 120px; /* Adjust the height value to reduce the size */
   top: 10px;
-  right: 10px;
+  left: 30em;
 }
 
 .container {
@@ -53,7 +53,7 @@ label {
 }
 
 select {
-  width: 100%;
+  width: 36%;
   padding: 5px;
   text-align: center;
   border-radius: 40px;
